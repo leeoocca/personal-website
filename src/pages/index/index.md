@@ -5,9 +5,9 @@ featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Juliette Pretot_**. I'm a creative, ambitious, and enterprising software engineer.
+My name's **_Leonardo Rocca_**. I'm a student and a creative.
 
-At **N26** I build a banking app using isomorphic React and GraphQL. I'm also a **Google Developer Expert** for Web Technologies.
+At **Spectroscope** I build fantastic user experiences.
 
 <span class="secondary-text">
 
