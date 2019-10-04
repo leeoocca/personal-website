@@ -2,12 +2,12 @@
 templateKey: TemplateBasic
 backTo: /
 backLabel: about
-title: Juliette Pretot
+title: Leonardo Rocca
 ---
 
-_Creative, ambitious, and enterprising software engineer._
+_Simpatico, bello, intelligente. Che vuoi di più?_
 
-**hi@juliette.sh**
+**leeoocca@gmail.com**
 
 ## Skills
 
